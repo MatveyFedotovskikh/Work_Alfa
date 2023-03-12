@@ -1,0 +1,23 @@
+{
+    "teacher_name":
+    {
+        "count_PY_Russian" : 0,
+        "count_PY_foreign_language" : 0,
+        "count_PY_sale_Russian" : 0,
+        "count_PY__sale_foreign_language" : 0,
+        "count_ind_50_Russian" : 0,
+        "count_ind_50_foreign_language" : 0,
+        "count_ind_80_Russian" : 0,
+        "count_ind_80_foreign_language" : 0,
+        "count_ind_gr_Russian" : 0,
+        "count_ind_gr_foreign_language" : 0,
+        "count_gr_Russian_1preson" : 0,
+        "count_gr_foreign_language_1person" : 0,
+        "count_gr_Russian_2preson" : 0,
+        "count_gr_foreign_language_2person" : 0,
+        "count_gr_Russian_3preson" : 0,
+        "count_gr_foreign_language_3person" : 0,
+        "count_gr_Russian_4preson" : 0,
+        "count_gr_foreign_language_4person" : 0
+    }
+}
