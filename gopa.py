@@ -1,1 +1,1 @@
-print('gopa223')
+print('gop')
